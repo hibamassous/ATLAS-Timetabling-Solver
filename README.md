@@ -1,5 +1,5 @@
 # ATLAS Timetabling Solver
-![logo](img/logo.png)
+![logo](logo.png)
 
 **ATLAS Timetabling Solver** is a desktop application (Python / Tkinter) that automates the **room-assignment stage of university course timetabling** with a **genetic algorithm (GA)**. Days and time slots are fixed by an Excel file and never modified: only the room of each session is computed. Developed at ENS and ENSIAS, Mohammed V University, Rabat (Morocco).
 
@@ -51,7 +51,7 @@ Educational timetabling (school, university course, examination) is NP-hard; heu
 
 ### 2.1 Architecture
 
-![archi](img/architecture.png)
+![archi](architecture.png)
 
 All computation is local (no server, no database). The GA runs in a **background thread**; progress (generation, best fitness, stagnation, run number, log) is sent to the GUI through a **thread-safe queue** polled by the main thread. The *Stop* button sets a flag read between two generations.
 
@@ -78,11 +78,11 @@ All computation is local (no server, no database). The GA runs in a **background
 
 Accepted time formats: `10:00 – 13:00`, `8h-11h`, `8:00 à 11:00`. Allowed range: 8:00–19:00, Monday to Saturday. There is no room column: the room is the result.
 
-![excel](img/fig_excel_input.jpg)
+![excel](fig_excel_input.jpg)
 
 **Rooms.** `🏢 Load rooms` (administrator) **replaces** the catalogue. Columns: `Lieu | Type | Numéro | Capacité` (name = "Lieu Type Numéro", e.g. `ENS Amphi 1`) or `Nom | Capacité`. Saved in `rooms_config.json`. If it is missing, a default catalogue of 24 rooms is created by `allocator.py`.
 
-![rooms](img/fig_salles_excel.jpg)
+![rooms](fig_salles_excel.jpg)
 
 | Category | Count | Capacity range | Campus |
 |---|--:|---|---|
@@ -159,7 +159,7 @@ The `100·n` baseline makes `F/n` comparable across instance sizes. The search s
 
 Runs use seeds `seed`, `seed+1`, …
 
-![dashboard](img/ui_main_window.jpg)
+![dashboard](ui_main_window.jpg)
 
 **Tabs.**
 
@@ -193,15 +193,15 @@ python ATLAS_Timetabling_Solver.py
 
 **Example 1 – Loading data and running the allocation.** The administrator signs in, loads `200_EDT_v1.xlsx`, creates an instance, sets the parameters and clicks Run GA (30 runs, best solution retained).
 
-![login](img/ui_login.jpg)
+![login](ui_login.jpg)
 
 **Example 2 – Reviewing the timetable of a group.** `EDT_001 — Mathématiques S2` (180-session run): six sessions from Monday to Saturday with their rooms.
 
-![timetable](img/tt_180.jpg)
+![timetable](tt_180.jpg)
 
 **Example 3 – Auditing room occupancy.** Monday, 180-session run: 35 courses, 24/75 rooms used, 0 overlapping sessions.
 
-![occupancy](img/occ_180.jpg)
+![occupancy](occ_180.jpg)
 
 **Example 4 – Manual room change.** Click an occupied cell and choose another room; capacity and overlap are re-validated and unsuitable rooms are rejected with an explicit message.
 
@@ -222,8 +222,8 @@ Parameters: population 60, 300 generations, pc = 0.8, pm = 0.05, seed 42, 30 run
 | Time per generation (s) | 0.037 | 0.081 | 0.128 |
 | Hard constraints satisfied | 4/4 | 4/4 | 4/4 |
 
-![stats90](img/stats_90.jpg)
-![fit90](img/fit_90.jpg)
+![stats90](stats_90.jpg)
+![fit90](fit_90.jpg)
 
 **Full dataset (1200 sessions)**, `run_30_experiments.py`, seeds 1001–1030:
 
