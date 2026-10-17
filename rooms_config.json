@@ -1,0 +1,602 @@
+[
+  {
+    "name": "ENS Amphi 1",
+    "type": "Amphi",
+    "category": "amphi",
+    "capacity": 120,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Amphi 5",
+    "type": "Amphi",
+    "category": "amphi",
+    "capacity": 120,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Amphi 9",
+    "type": "Amphi",
+    "category": "amphi",
+    "capacity": 120,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Amphi 13",
+    "type": "Amphi",
+    "category": "amphi",
+    "capacity": 120,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Amphi 17",
+    "type": "Amphi",
+    "category": "amphi",
+    "capacity": 120,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "Annexe Amphi 1",
+    "type": "Amphi",
+    "category": "amphi",
+    "capacity": 120,
+    "location": "Annexe",
+    "features": []
+  },
+  {
+    "name": "ENS Amphi 2",
+    "type": "Amphi",
+    "category": "amphi",
+    "capacity": 100,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Amphi 6",
+    "type": "Amphi",
+    "category": "amphi",
+    "capacity": 100,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Amphi 10",
+    "type": "Amphi",
+    "category": "amphi",
+    "capacity": 100,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Amphi 14",
+    "type": "Amphi",
+    "category": "amphi",
+    "capacity": 100,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Amphi 18",
+    "type": "Amphi",
+    "category": "amphi",
+    "capacity": 100,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "Annexe Amphi 2",
+    "type": "Amphi",
+    "category": "amphi",
+    "capacity": 100,
+    "location": "Annexe",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 68",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 90,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 67",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 89,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 66",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 88,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 65",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 87,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 64",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 86,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 63",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 85,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 62",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 84,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 61",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 83,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 60",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 82,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 59",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 81,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 58",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 80,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 57",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 79,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 56",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 78,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 55",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 77,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 54",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 76,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 53",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 75,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 52",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 74,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 51",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 73,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 50",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 72,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 49",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 71,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Amphi 3",
+    "type": "Amphi",
+    "category": "amphi",
+    "capacity": 70,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Amphi 7",
+    "type": "Amphi",
+    "category": "amphi",
+    "capacity": 70,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Amphi 11",
+    "type": "Amphi",
+    "category": "amphi",
+    "capacity": 70,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Amphi 15",
+    "type": "Amphi",
+    "category": "amphi",
+    "capacity": 70,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 48",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 70,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "Annexe Salle 1",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 70,
+    "location": "Annexe",
+    "features": []
+  },
+  {
+    "name": "Annexe Salle 2",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 70,
+    "location": "Annexe",
+    "features": []
+  },
+  {
+    "name": "Annexe Salle 5",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 70,
+    "location": "Annexe",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 47",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 69,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 46",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 68,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 45",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 67,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 44",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 66,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 43",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 65,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 42",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 64,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 41",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 63,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 40",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 62,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 39",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 61,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Amphi 4",
+    "type": "Amphi",
+    "category": "amphi",
+    "capacity": 60,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Amphi 8",
+    "type": "Amphi",
+    "category": "amphi",
+    "capacity": 60,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Amphi 12",
+    "type": "Amphi",
+    "category": "amphi",
+    "capacity": 60,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Amphi 16",
+    "type": "Amphi",
+    "category": "amphi",
+    "capacity": 60,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 38",
+    "type": "Salle moyenne",
+    "category": "moyenne",
+    "capacity": 60,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 37",
+    "type": "Salle petite",
+    "category": "petite",
+    "capacity": 59,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 36",
+    "type": "Salle petite",
+    "category": "petite",
+    "capacity": 58,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 35",
+    "type": "Salle petite",
+    "category": "petite",
+    "capacity": 57,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 34",
+    "type": "Salle petite",
+    "category": "petite",
+    "capacity": 56,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 33",
+    "type": "Salle petite",
+    "category": "petite",
+    "capacity": 55,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 32",
+    "type": "Salle petite",
+    "category": "petite",
+    "capacity": 54,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 31",
+    "type": "Salle petite",
+    "category": "petite",
+    "capacity": 53,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 30",
+    "type": "Salle petite",
+    "category": "petite",
+    "capacity": 52,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 29",
+    "type": "Salle petite",
+    "category": "petite",
+    "capacity": 51,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 28",
+    "type": "Salle petite",
+    "category": "petite",
+    "capacity": 50,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 27",
+    "type": "Salle petite",
+    "category": "petite",
+    "capacity": 49,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 26",
+    "type": "Salle petite",
+    "category": "petite",
+    "capacity": 48,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 25",
+    "type": "Salle petite",
+    "category": "petite",
+    "capacity": 47,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 24",
+    "type": "Salle petite",
+    "category": "petite",
+    "capacity": 46,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 23",
+    "type": "Salle petite",
+    "category": "petite",
+    "capacity": 45,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 22",
+    "type": "Salle petite",
+    "category": "petite",
+    "capacity": 44,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 21",
+    "type": "Salle petite",
+    "category": "petite",
+    "capacity": 43,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 20",
+    "type": "Salle petite",
+    "category": "petite",
+    "capacity": 42,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "ENS Salle 69",
+    "type": "Salle petite",
+    "category": "petite",
+    "capacity": 40,
+    "location": "ENS",
+    "features": []
+  },
+  {
+    "name": "Annexe Salle 4",
+    "type": "Salle petite",
+    "category": "petite",
+    "capacity": 35,
+    "location": "Annexe",
+    "features": []
+  },
+  {
+    "name": "Annexe Salle 3",
+    "type": "Salle petite",
+    "category": "petite",
+    "capacity": 35,
+    "location": "Annexe",
+    "features": []
+  }
+]

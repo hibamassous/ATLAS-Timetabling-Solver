@@ -1,0 +1,47 @@
+{
+  "n_runs": 30,
+  "n_courses": 1200,
+  "n_rooms": 75,
+  "ga_parameters": {
+    "population_size": 60,
+    "number_generations": 300,
+    "mutation_rate": 0.05,
+    "crossover_rate": 0.8
+  },
+  "total_wall_clock_seconds": 779.7,
+  "final_fitness": {
+    "mean": 118160.0,
+    "stdev": 52.78,
+    "min": 118037.5,
+    "max": 118292.5,
+    "median": 118162.5
+  },
+  "capacity_overbookings": {
+    "mean": 0,
+    "stdev": 0.0,
+    "min": 0,
+    "max": 0,
+    "median": 0.0
+  },
+  "execution_time_seconds": {
+    "mean": 25.987,
+    "stdev": 0.252,
+    "min": 25.404,
+    "max": 26.517,
+    "median": 25.931
+  },
+  "generations_run": {
+    "mean": 152,
+    "stdev": 0.0,
+    "min": 152,
+    "max": 152,
+    "median": 152.0
+  },
+  "rooms_used": {
+    "mean": 75,
+    "stdev": 0.0,
+    "min": 75,
+    "max": 75,
+    "median": 75.0
+  }
+}

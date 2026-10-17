@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Générés par l'application / les expériences
+progress.json
+uploads/
+EDT_*.xlsx
+Rooms_*.xlsx
+Assignment_details.xlsx
+
+# Ancienne version Flask (non utilisée)
+static/
+templates/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
