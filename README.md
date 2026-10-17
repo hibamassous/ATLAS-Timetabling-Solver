@@ -160,9 +160,4 @@ Résultats obtenus avec le code actuel (1200 séances, **75 salles exactement**,
 
 Durée totale des 30 runs : 780 s.
 
-## Notes techniques
 
-- Les résultats sont conservés en mémoire pendant la session : pensez à exporter avant de fermer.
-- Si `rooms_config.json` est absent, un catalogue par défaut de 24 salles est créé par `allocator.py`.
-- Si le nombre de séances simultanées dépasse le nombre de salles de capacité suffisante, certaines
-  séances restent sans salle ou en dépassement (visible dans Statistics) : agrandissez le catalogue.
