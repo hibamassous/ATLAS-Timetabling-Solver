@@ -292,10 +292,10 @@ ATLAS allocated all sessions of the three instances (90, 180, 240) with mean tim
 
 ## Contributors
 
-- Fouad Kharroubi ([ResearchGate](https://www.researchgate.net/profile/TON-LIEN-ICI)) — ENSIAS, Mohammed V University
-- Hiba Massous ([ResearchGate](https://www.researchgate.net/profile/TON-LIEN-ICI)) — ENS, Mohammed V University
-- Nouhaila El Machichi ([ResearchGate](https://www.researchgate.net/profile/TON-LIEN-ICI)) — ENS, Mohammed V University
-- Salma Ouali ([ResearchGate](https://www.researchgate.net/profile/TON-LIEN-ICI)) — ENS, Mohammed V University
-- Aymane El Youssfi ([ResearchGate](https://www.researchgate.net/profile/TON-LIEN-ICI)) — ENS, Mohammed V University
+- Fouad Kharroubi ([ResearchGate](https://www.researchgate.net/profile/Fouad-Kharroubi)) — ENSIAS, Mohammed V University
+- Hiba Massous ([ResearchGate](https://www.researchgate.net/profile/Hiba-Massous)) — ENS, Mohammed V University
+- Mohamed Lachgar ([ResearchGate](https://www.researchgate.net/profile/Mohamed-Lachgar)) — ENS, Cadi Ayyad University
+- Nouhaila El Machichi ([ResearchGate](https://www.researchgate.net/profile/Nouhaila-El-Machichi-2)) — ENS, Mohammed V University
+
 
 Contact: fouad.kharroubi@gmail.com
